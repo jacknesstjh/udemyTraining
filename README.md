@@ -1,1 +1,2 @@
 # udemyTraining
+关于go语言的学习练习项目
